@@ -1,0 +1,6 @@
+{
+  "name": "CrosX Internal Panel",
+  "description": "Enterprise Ad-Tech SaaS operations platform for campaign orchestration, real-time attribution reporting, postback management, template building, and API administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
